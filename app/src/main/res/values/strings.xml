@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Voice Search</string>
+
+    <string name="transtext">Translated Text Here..</string>
+    <string name="somethinwrong">Something went wrong</string>
+    <string name="interneterr">No internet connection, Please connect to Internet to translate it.</string>
+    <string name="language_not_supported">This language speech is currently not supported</string>
+    <string name="copy">Copied</string>
+
+    <string name="banner">#</string>
+    <string name="interstitial_full">#</string>
+</resources>
